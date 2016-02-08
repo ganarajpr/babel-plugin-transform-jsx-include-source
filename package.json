@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-transform-jsx-include-source",
+  "version": "0.9.0",
+  "description": "Add a data-source prop to all JSX Elements",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ganarajpr/babel-plugin-transform-jsx-include-source"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "babel-runtime": "^5.0.0",
+    "babel-plugin-syntax-jsx": "^6.3.13"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.3.13"
+  }
+}
